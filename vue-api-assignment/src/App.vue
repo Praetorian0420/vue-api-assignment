@@ -90,6 +90,10 @@ button:hover {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
+.user-card h2 {
+  color: #2c3e50;
+}
+
 .user-card img {
   border-radius: 50%;
 }
